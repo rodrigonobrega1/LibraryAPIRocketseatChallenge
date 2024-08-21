@@ -1,0 +1,6 @@
+@LibraryAPIRocketseatChallenge_HostAddress = http://localhost:5223
+
+GET {{LibraryAPIRocketseatChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
